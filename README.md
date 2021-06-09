@@ -1,6 +1,3 @@
-<div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
-</div>
 
 # FaceNetAuthentication
 
@@ -51,10 +48,6 @@ flutter pub get
 flutter run
 ```
 
-## Screenshots
-<div align="center">
-<img src="https://raw.githubusercontent.com/MCarlomagno/FaceRecognitionAuth/master/assets/banner.png" alt="banner image"/>
-</div>
 
 ## Licence
 
