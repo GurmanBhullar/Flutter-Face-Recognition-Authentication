@@ -37,7 +37,7 @@ class Profile extends StatelessWidget {
                    
                   ),
                   Text(
-                    'Welcome' + username + '!',
+                    'Welcome ' + username + '!',
                     style: TextStyle(fontSize: 22, fontWeight: FontWeight.w600),
                   ),
                 ],

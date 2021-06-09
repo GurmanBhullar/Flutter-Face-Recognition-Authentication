@@ -105,7 +105,7 @@ class _MyHomePageState extends State<MyHomePage> {
                       child: Column(
                         children: [
                           Text(
-                            "FACE RECOGNITION AUTHENTICATION - (COE21-Group1)",
+                            "FACE RECOGNITION AUTHENTICATION ",
                             style: TextStyle(
                                 fontSize: 25, fontWeight: FontWeight.bold),
                             textAlign: TextAlign.center,

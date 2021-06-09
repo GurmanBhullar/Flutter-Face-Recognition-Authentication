@@ -137,8 +137,7 @@ class FaceNetService {
       for (var j = 0; j < 112; j++) {
         var pixel = image.getPixel(j, i);
 
-        /// mean: 128
-        /// std: 128
+     
         buffer[pixelIndex++] = (imglib.getRed(pixel) - 128) / 128;
         buffer[pixelIndex++] = (imglib.getGreen(pixel) - 128) / 128;
         buffer[pixelIndex++] = (imglib.getBlue(pixel) - 128) / 128;
@@ -158,7 +157,7 @@ class FaceNetService {
     double currDist = 0.0;
     String predRes;
 
-    /// search the closest result 👓
+    /// search the closest result 
     for (String label in data.keys) {
       currDist = _euclideanDistance(data[label], predictedData);
       if (currDist <= threshold && currDist < minDist) {
@@ -170,7 +169,7 @@ class FaceNetService {
   }
 
   /// Adds the power of the difference between each point
-  /// then computes the sqrt of the result 📐
+  /// then computes the sqrt of the result 
   double _euclideanDistance(List e1, List e2) {
     if (e1 == null || e2 == null) throw Exception("Null argument");
 
