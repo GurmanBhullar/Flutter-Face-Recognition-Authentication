@@ -30,7 +30,7 @@ Currently, the project has only support for Android  devices, if you're interest
 1- Clone the project:
 
 ```
-git clone https://github.com/MCarlomagno/FaceRecognitionAuth.git
+
 ```
 2- Open the folder:
 
