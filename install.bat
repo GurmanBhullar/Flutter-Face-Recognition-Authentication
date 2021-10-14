@@ -28,7 +28,7 @@ if %d%==0 CALL :Download %ARM% armeabi-v7a
 if %d%==0 CALL :Download %ARM_64% arm64-v8a
 CALL :Download %X86% x86
 CALL :Download %X86_64% x86_64
-EXIT /B %ERRORLEVEL%
+EXIT /B %ERRORLEVEL %
 
 :Download
 curl -L -o %~1 %URL%%TAG%/%~1
