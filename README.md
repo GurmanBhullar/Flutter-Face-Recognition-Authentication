@@ -40,6 +40,14 @@ flutter pub get
 flutter run
 ```
 
+# Application screenshots
+
+![WhatsApp Image 2021-10-15 at 2 02 20 AM (1)](https://user-images.githubusercontent.com/40751910/137391252-a0ae1a69-62ff-4b2c-ac93-e34a99ed2ef7.jpeg)
+![WhatsApp Image 2021-10-15 at 2 02 20 AM (2)](https://user-images.githubusercontent.com/40751910/137391256-f4f69ac9-7ebe-4edc-86a7-b76dc36cd8f3.jpeg)
+![WhatsApp Image 2021-10-15 at 2 02 20 AM (3)](https://user-images.githubusercontent.com/40751910/137391259-105e2a32-cf89-4f71-b1a8-8e0d128c6abb.jpeg)
+![WhatsApp Image 2021-10-15 at 2 02 20 AM (4)](https://user-images.githubusercontent.com/40751910/137391261-d7de9ef9-f3d0-4f56-a43d-e4b25436c07b.jpeg)
+![WhatsApp Image 2021-10-15 at 2 02 20 AM](https://user-images.githubusercontent.com/40751910/137391263-82c430e1-4f30-4f38-bee4-f3b41d72c8b6.jpeg)
+
 
 
 
